@@ -70,13 +70,15 @@ pelo github uma avaliação corrida da branch, se aprovada sera feita.
 
 9-parte  
 
-Aqui demonstramos todos os repositorios criados com seus respectivos nomes, imporante :
+Aqui demonstramos todos os repositorios criados com seus respectivos nomes, imporante:
 todos eles devem seguir esses padrões de escrita para BACKEND e FRONTEND, pois mais adiante eles seram conctados diretamente com os respositorios feitos dentro do   
 projeto.
 
 ![image](https://user-images.githubusercontent.com/81186935/136825546-4b0d55cf-16bb-4b41-85bb-b1852b419376.png)
 
 
+Após a finalização do deploy você deve clicar no botão sinalizado na figua abaixo:
+![Deploy_heroku concluido](https://user-images.githubusercontent.com/80184523/137143150-548138d5-8bba-4706-8726-f0448f8fc417.png)
 
 
 
